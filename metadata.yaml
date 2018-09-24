@@ -1,5 +1,8 @@
 _repo: The-Egregious-English_56453
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56453-h/images/cover.jpg
 creator:
   author:
     agent_name: Crosland, T. W. H. (Thomas William Hodgson)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '25879'
     url: http://www.gutenberg.org/2009/agents/25879
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56453#The-Egregious-English
 gutenberg_issued: '2018-01-28'
 gutenberg_type: Text
 identifiers:
